@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.top-bar {
+    color: #fff;
+    background-color: #5995da;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.description {
+    font-size: 15px;
+    margin-left: 15px;
+}
+
+.menu-container {
+    /* color: #fff; */
+    /* background-color: #4f5358; */
+    font-size: 13px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
