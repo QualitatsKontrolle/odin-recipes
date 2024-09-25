@@ -4,15 +4,15 @@ Welcome to my Recipe Website! This project is a simple web application created t
 
 ## 📜 Table of Contents
 
-1.  [Introduction](#introduction)
-2.  [Project Overview](#project-overview)
-3.  [Features](#features)
-4.  [Technologies Used](#technologies-used)
-5.  [Setup & Installation](#setup--installation)
-6.  [Usage](#usage)
-7.  [Contributing](#contributing)
-8.  [License](#license)
-9.  [Acknowledgements](#acknowledgements)
+1.  [Introduction](https://github.com/QualitatsKontrolle/odin-recipes/blob/main/README.md#-introduction)
+2.  [Project Overview](https://github.com/QualitatsKontrolle/odin-recipes/blob/main/README.md#-project-overview)
+3.  [Features](https://github.com/QualitatsKontrolle/odin-recipes/blob/main/README.md#-features)
+4.  [Technologies Used](https://github.com/QualitatsKontrolle/odin-recipes/blob/main/README.md#-technologies-used)
+5.  [Setup & Installation](https://github.com/QualitatsKontrolle/odin-recipes/blob/main/README.md#%EF%B8%8F-setup--installation)
+6.  [Usage](https://github.com/QualitatsKontrolle/odin-recipes/blob/main/README.md#-usage)
+7.  [Contributing](https://github.com/QualitatsKontrolle/odin-recipes/blob/main/README.md#-contributing)
+8.  [License](https://github.com/QualitatsKontrolle/odin-recipes/blob/main/README.md#-license)
+9.  [Acknowledgements](https://github.com/QualitatsKontrolle/odin-recipes/blob/main/README.md#-acknowledgements)
 
 ## 🌟 Introduction
 
